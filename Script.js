@@ -1,0 +1,1 @@
+ alert("You Are Smart And Beautiful <3");
